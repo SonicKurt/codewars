@@ -3,6 +3,8 @@ Are they the "same"?
 
 Author: Kurt Campbell
 Date: 24 August 2023
+
+NOTE: This solution does not work with one test case.
 '''
 
 import math
